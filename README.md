@@ -28,4 +28,4 @@ ARI = 1.0
 
 ## Experiment on data with large number of clusters
 
-The folder 'large_num_clusters' contains the files to conduct the experiment (reported in the source paper) comparing the performance of Kernel k-Harmonic Means with Kernel Fuzzy c-Means, Kernel k-Means, and BIRCH.
+The folder **large_num_clusters** contains the files to conduct the experiment (reported in the source paper) comparing the performance of Kernel k-Harmonic Means with Kernel Fuzzy c-Means, Kernel k-Means, and BIRCH.
