@@ -1,6 +1,6 @@
 # Kernelized General Fuzzy c-Means Clustering
 
-Paper Source: Gupta A., Das S., 'On the Unification of k-Harmonic Means and Fuzzy c-Means Clustering Problems under Kernelization', in the 2017 Ninth International Conference on Advances in Pattern Recognition (ICAPR 2017), pp. 386-391, 2017.
+Paper Source: [Gupta A., Das S., ``On the Unification of k-Harmonic Means and Fuzzy c-Means Clustering Problems under Kernelization'', *in the 2017 Ninth International Conference on Advances in Pattern Recognition (ICAPR 2017)*, pp. 386-391, 2017.](https://ieeexplore.ieee.org/iel7/8577948/8592935/08593078.pdf)
 
 ## Example of usage
 
