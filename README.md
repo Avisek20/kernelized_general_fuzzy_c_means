@@ -5,9 +5,6 @@ Paper Source: [Gupta A., Das S., "On the Unification of k-Harmonic Means and Fuz
 ## Example of usage
 
 ```
-Examples
---------
-
 >>> import numpy as np
 >>> X = np.array([
 ...    [10, 11], [12, 13], [14, 15], [-10, -11], [-12, -13], [-14, -15]
